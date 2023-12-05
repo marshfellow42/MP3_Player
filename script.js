@@ -1,11 +1,11 @@
 const songs = [
   "Rick Astley - Never Gonna Give You Up.mp3",
-  "椎名もた(siinamota) - Young Girl A  少女A",
-  "You Ballin in the wrong Halem (Mashup - Ballin x Casin)",
-  "Song of Unhealing",
-  "Song of Healing - The Legend of Zelda Majora's Mask",
-  "Astral Observatory - The Legend of Zelda Majora's Mask",
-  "End credits (Zora Song Portion + Extended) - The Legend of Zelda Majora's Mask",
+  "椎名もた(siinamota) - Young Girl A  少女A.mp3",
+  "You Ballin in the wrong Halem (Mashup - Ballin x Casin).mp3",
+  "Song of Unhealing.mp3",
+  "Song of Healing - The Legend of Zelda Majora's Mask.mp3",
+  "Astral Observatory - The Legend of Zelda Majora's Mask.mp3",
+  "End credits (Zora Song Portion + Extended) - The Legend of Zelda Majora's Mask.mp3",
 ];
 
 const songNames = songs.map(song => song.replace('.mp3', ''));
